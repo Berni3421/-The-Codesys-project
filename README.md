@@ -1,2 +1,2 @@
 # -The-Codesys-project
-The Codesys project that connects to factory I/O and Ignition.
+The Codesys project that connects to Factory I/O and Ignition.
